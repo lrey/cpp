@@ -1,4 +1,4 @@
-//g++ isearch2.cpp -o srch.exe
+//g++ isearch4.cpp library.h -o srch.exe
 //time ./srch weblog.txt
 #ifndef LIBRARY_H
 #define LIBRARY_H
